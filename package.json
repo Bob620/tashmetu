@@ -1,0 +1,20 @@
+{
+  "name": "tashmetu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node test.mjs",
+    "start": "node --experimental-modules index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bob620/tashmetu.git"
+  },
+  "author": "Bob620 and Kazuma506",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bob620/tashmetu/issues"
+  },
+  "homepage": "https://github.com/Bob620/tashmetu#readme"
+}
